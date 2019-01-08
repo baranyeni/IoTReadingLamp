@@ -7,6 +7,6 @@ Online switched reading lamp.
   And controls I/O's depends on the directory which you are in. (in my case /LEDOff turns off, /LEDOn turns on the light.)
   
 ## HARDWARE
-  ESP8266 NodeMCU
-  Relay Module (If you want to control something more then LED.)
-  Adapter (To power ESP Module)
+  ###ESP8266 NodeMCU
+  ###Relay Module (If you want to control something more then LED.)
+  ###Adapter (To power ESP Module)

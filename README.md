@@ -10,3 +10,7 @@ Online switched reading lamp.
   ESP8266 NodeMCU  
   Relay Module (If you want to control something more then LED.)  
   Adapter (To power ESP Module)  
+
+## NEED
+  If anyone who is reading this does have a knowledge about creating a local domain name, please contact me at info@baranyeni.com 
+  Using ip adress on browser is mess and using special domain name in my home is cool. (Such as rest-room-reading-lamp.com)
